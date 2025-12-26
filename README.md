@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey,👋
 
-<!--
-**Salpertio/Salpertio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+🔭 Currently working on: whatever im hyperfixated on.
+🌱 Learning: advanced networking, and cloud platforms like AWS and Azure.
+👯 Looking to collaborate on: Open-source tools.
+💬 Ask me about: Home server builds, Unraid setups, or IT support.
+📫 Reach me at: [absalomisrael1@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+⚡ Fun fact: A true lemon is a hybrid of the citron and the bitter orange.
+
+Skills
+Languages: Python, JavaScript, Bash
+Frameworks/Tools: Astro, Docker, Unraid
